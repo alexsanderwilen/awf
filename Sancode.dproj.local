@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/26 22:37:35.000.326,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/26 22:40:31.000.395,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/04/26 22:42:19.000.176,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\awf\ufrmPrincipal.pas</Transaction>
+    <Transaction>2023/04/26 22:42:19.000.176,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\awf\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2023/04/26 22:42:30.000.129,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\awf\Sancode.dproj</Transaction>
+    <Transaction>2023/04/27 17:17:25.000.597,=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 19:24:23.000.300,=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 19:24:56.000.035,C:\awf\ufrmCadCliente.pas=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 19:24:56.000.035,C:\awf\ufrmCadCliente.dfm=C:\awf\Unit1.dfm</Transaction>
+    <Transaction>2023/04/27 21:58:47.000.064,=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 22:07:33.000.475,C:\awf\ufrmDetCliente.dfm=C:\awf\Unit1.dfm</Transaction>
+    <Transaction>2023/04/27 22:07:33.000.475,C:\awf\ufrmDetCliente.pas=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 23:45:34.000.144,=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 23:49:17.000.411,C:\awf\ufrmConfiguracao.pas=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/04/27 23:49:17.000.411,C:\awf\ufrmConfiguracao.dfm=C:\awf\Unit1.dfm</Transaction>
+    <Transaction>2023/04/30 02:00:11.000.411,=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/04/30 02:02:32.000.537,C:\awf\ufrmCadSeguradora.pas=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/04/30 02:02:32.000.537,C:\awf\ufrmCadSeguradora.dfm=C:\awf\Unit1.dfm</Transaction>
+    <Transaction>2023/04/30 10:31:02.000.994,=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/04/30 10:32:21.000.354,C:\awf\Unit1.dfm=C:\awf\ufrmDetSeguradora.dfm</Transaction>
+    <Transaction>2023/04/30 10:32:21.000.354,C:\awf\Unit1.pas=C:\awf\ufrmDetSeguradora.pas</Transaction>
+    <Transaction>2023/04/30 16:47:02.000.310,=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/04/30 16:51:43.000.187,C:\awf\ufrmCadCorpoEmail.pas=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/04/30 16:51:43.000.187,C:\awf\ufrmCadCorpoEmail.dfm=C:\awf\Unit1.dfm</Transaction>
+    <Transaction>2023/05/03 20:55:45.000.997,=C:\awf\process\dprocess.pas</Transaction>
+    <Transaction>2023/05/03 20:55:51.000.631,=C:\awf\process\dpipes.pas</Transaction>
+    <Transaction>2023/05/05 08:05:29.000.467,=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/05/05 08:05:55.000.920,C:\awf\Unit1.pas=C:\awf\ufrmEmail.pas</Transaction>
+    <Transaction>2023/05/05 08:05:55.000.920,C:\awf\Unit1.dfm=C:\awf\ufrmEmail.dfm</Transaction>
+    <Transaction>2023/05/10 10:21:50.000.053,=C:\awf\Unit1.pas</Transaction>
+    <Transaction>2023/05/10 10:28:25.000.828,C:\awf\Unit1.dfm=C:\awf\ufrmValidarDados.dfm</Transaction>
+    <Transaction>2023/05/10 10:28:25.000.828,C:\awf\Unit1.pas=C:\awf\ufrmValidarDados.pas</Transaction>
+  </Transactions>
+</BorlandProject>
